@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5393'
     url: http://www.gutenberg.org/2009/agents/5393
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14169#Ethel-Hollister-s-Second-Summer-as-a-Campfire-Girl
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-11-26'
 gutenberg_type: Text
