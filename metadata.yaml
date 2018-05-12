@@ -1,0 +1,25 @@
+_repo: Ethel-Hollister-s-Second-Summer-as-a-Campfire-Girl_14169
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benson, Irene Elliott
+    gutenberg_agent_id: '5393'
+    url: http://www.gutenberg.org/2009/agents/5393
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14169'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+title: Ethel Hollister's Second Summer as a Campfire Girl
+url: http://www.gutenberg.org/ebooks/14169
